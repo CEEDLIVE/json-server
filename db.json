@@ -9,32 +9,51 @@
   "curation": [
     {
       "title": "걸어서 세계속으로",
-      "menuType": "프로그램 페이지",
-      "menuColor": "black",
+      "type": "프로그램 페이지",
+      "color": "black",
+      "display": true,
       "url": "https://dmyk.kbs.co.kr/front2/program_info.html?program_code=T2005-0731"
     },
     {
       "title": "광개토태왕",
-      "menuType": "영상 콘텐츠 재생",
-      "menuColor": "black",
+      "type": "영상 콘텐츠 재생",
+      "color": "black",
+      "display": true,
       "url": "https://m.naver.com"
     },
     {
       "title": "오늘의 K",
-      "menuType": "오늘의 K",
-      "menuColor": "black",
+      "type": "오늘의 K",
+      "color": "black",
+      "display": true,
       "url": "https://dmyk2.static.kbs.co.kr/front2/gnb_home.html"
     },
     {
       "title": "트로트 신인 유산슬",
-      "menuType": "검색 결과 페이지",
-      "menuColor": "black",
+      "type": "검색 결과 페이지",
+      "color": "black",
+      "display": true,
       "url": "https://m.daum.net"
     },
     {
-      "title": "베스트 클립",
-      "menuType": "클립 메뉴",
-      "menuColor": "black",
+      "title": "베스트 클립 1",
+      "type": "클립 메뉴",
+      "color": "black",
+      "display": true,
+      "url": "https://m.nate.com"
+    },
+    {
+      "title": "베스트 클립 2",
+      "type": "클립 메뉴",
+      "color": "black",
+      "display": false,
+      "url": "https://m.nate.com"
+    },
+    {
+      "title": "베스트 클립 3",
+      "type": "클립 메뉴",
+      "color": "black",
+      "display": false,
       "url": "https://m.nate.com"
     }
   ]
